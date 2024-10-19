@@ -1,2 +1,2 @@
-# AAPL-Price-Prediction-LSTM
-Utilise LSTM to predict AAPL stock prices
+# Compilation-of-Time-Series-models
+Compliation of various approaches and models to time series problems
